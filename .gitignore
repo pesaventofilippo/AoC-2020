@@ -1,0 +1,7 @@
+.idea/
+.vscode/
+template/
+dev/
+__pycache__/
+*input.txt
+*ex.txt
